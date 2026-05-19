@@ -1,0 +1,11 @@
+{
+  "name": "ConvertyFlow",
+  "description": "Multi-tenant SaaS platform for high-conversion Tunisian COD e-commerce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API",
+    "Multitenancy",
+    "E-commerce",
+    "Analytics"
+  ]
+}
